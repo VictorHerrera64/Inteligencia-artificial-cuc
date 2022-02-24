@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 """
 Created on Wed Feb 23 20:55:53 2022
 
@@ -152,3 +153,16 @@ valor_final = p_value - descuento
 print(f'El valor del producto inicial es de: ${p_value:,}')
 print(f"El valor ahorrado es de: ${descuento:,}")
 print(f"El valor con el descuento aplicado es de: ${valor_final:,}")
+=======
+#ejercicio 1
+valor = int(input('Ingresa el valor de un producto: '))
+ahorro = valor * 0.2
+valor_descuento = valor - ahorro
+print(f"El valor inicial del producto es: {valor}, el valor con descuento es: {valor_descuento} y el valor ahorrado es: {ahorro}")
+
+#ejercicios 2
+num1 = int(input("Ingresa el primer número: "))
+num2 = int(input("Ingresa otro número: "))
+suma = num1 + num2
+print(f"{num1} + {num2} = {suma}")
+>>>>>>> d44d0c27797feaccc3ecc04913c8d1a975199047
