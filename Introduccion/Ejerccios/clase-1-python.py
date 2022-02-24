@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-This is a temporary script file.
+Created on Wed Feb 23 20:55:53 2022
+
+@author: herre
 """
 
 # Variables
